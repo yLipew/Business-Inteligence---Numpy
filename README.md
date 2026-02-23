@@ -1,5 +1,12 @@
 # 📊 Business Intelligence — SENAI FATESG
 
+![Status](https://img.shields.io/badge/status-em%20andamento-blue)
+![Curso](https://img.shields.io/badge/curso-Intelig%C3%AAncia%20Artificial-green)
+![Período](https://img.shields.io/badge/per%C3%ADodo-2%C2%BA-orange)
+![Instituição](https://img.shields.io/badge/SENAI-FATESG-red)
+![BI](https://img.shields.io/badge/%C3%A1rea-Business%20Intelligence-blueviolet)
+![License](https://img.shields.io/badge/licen%C3%A7a-Acad%C3%AAmica-lightgrey)
+
 Repositório destinado ao armazenamento das atividades, projetos e materiais desenvolvidos na disciplina de **Business Intelligence** da **Faculdade SENAI FATESG**.
 
 ---
@@ -40,12 +47,3 @@ Durante a disciplina são utilizadas ferramentas como:
 - Ferramentas de ETL  
 
 ---
-
-## 👨‍🎓 Autor
-
--Felipe Mendonça
--Curso: Inteligência Artificial
-
-## 🏫 Instituição
-
--Faculdade SENAI FATESG
