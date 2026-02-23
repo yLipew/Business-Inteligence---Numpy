@@ -44,20 +44,7 @@ Durante a disciplina são utilizadas ferramentas como:
 ## 📂 Estrutura do Repositório
 
 ```bash
-business-intelligence-senai/
-│
-├── atividades/
-│   ├── atividade-01/
-│   ├── atividade-02/
-│   └── ...
-│
-├── datasets/
-│   └── arquivos-de-dados/
-│
-├── dashboards/
-│   └── arquivos-powerbi/
-│
-└── README.md
+
 
 
 👨‍🎓 Autor
