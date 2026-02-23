@@ -41,11 +41,8 @@ Durante a disciplina são utilizadas ferramentas como:
 
 ---
 
-## 📂 Estrutura do Repositório
 
 ```bash
-
-
 
 👨‍🎓 Autor
 
