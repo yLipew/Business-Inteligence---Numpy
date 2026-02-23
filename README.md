@@ -44,13 +44,13 @@ Durante a disciplina são utilizadas ferramentas como:
 
 ```bash
 
-👨‍🎓 Autor
+## 👨‍🎓 Autor
 
 Felipe Mendonça
 Aluno da Faculdade SENAI FATESG
 Curso: Inteligência Artificial
 
 
-🏫 Instituição
+## 🏫 Instituição
 
 Faculdade SENAI FATESG
