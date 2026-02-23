@@ -41,9 +41,6 @@ Durante a disciplina são utilizadas ferramentas como:
 
 ---
 
-
-```bash
-
 ## 👨‍🎓 Autor
 
 Felipe Mendonça
