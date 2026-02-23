@@ -43,11 +43,9 @@ Durante a disciplina são utilizadas ferramentas como:
 
 ## 👨‍🎓 Autor
 
-Felipe Mendonça
-Aluno da Faculdade SENAI FATESG
-Curso: Inteligência Artificial
-
+-Felipe Mendonça
+-Curso: Inteligência Artificial
 
 ## 🏫 Instituição
 
-Faculdade SENAI FATESG
+-Faculdade SENAI FATESG
