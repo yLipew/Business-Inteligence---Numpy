@@ -7,8 +7,6 @@
 ![Área](https://img.shields.io/badge/%C3%A1rea-Business%20Intelligence-blueviolet)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU-USUARIO/SEU-REPOSITORIO)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU-USUARIO/SEU-REPOSITORIO)
 ![License](https://img.shields.io/badge/licen%C3%A7a-Acad%C3%AAmica-lightgrey)
 
 Repositório destinado ao armazenamento das atividades, projetos e materiais desenvolvidos na disciplina de **Business Intelligence** da **Faculdade SENAI FATESG**.
