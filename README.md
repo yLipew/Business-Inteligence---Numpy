@@ -37,12 +37,12 @@ As atividades presentes neste repositório envolvem conceitos e práticas de:
 ### 🧮 Manipulação de Dados com NumPy
 Acesso direto aos exercícios práticos de manipulação matricial desenvolvidos:
 
-* **[Exercício 01: Fatiamento de Vetores](exercicio01.py)** - Alteração de elementos específicos para zero.
-* **[Exercício 02: Atributos de Matriz](exercicio02.py)** - Verificação de shape e acesso à segunda linha.
-* **[Exercício 03: Extração de Colunas](exercicio03.py)** - Isolamento da segunda coluna em matrizes 3x2.
-* **[Exercício 04: Acesso em Matrizes 4x5](exercicio04.py)** - Impressão da terceira linha da matriz.
-* **[Exercício 05: Recorte Multidimensional A](exercicio05.py)** - Seleção de intervalos específicos de linhas e colunas.
-* **[Exercício 06: Recorte Multidimensional B](exercicio06.py)** - Fatiamento avançado de subconjuntos matriciais.
+* **[Exercício 01: Fatiamento de Vetores](Ex1.ipynb)** - Alteração de elementos específicos para zero.
+* **[Exercício 02: Atributos de Matriz](Ex2.ipynb)** - Verificação de shape e acesso à segunda linha.
+* **[Exercício 03: Extração de Colunas](Ex3.ipynb)** - Isolamento da segunda coluna em matrizes 3x2.
+* **[Exercício 04: Acesso em Matrizes 4x5](Ex4.ipynb)** - Impressão da terceira linha da matriz.
+* **[Exercício 05: Recorte Multidimensional A](Ex5.ipynb)** - Seleção de intervalos específicos de linhas e colunas.
+* **[Exercício 06: Recorte Multidimensional B](Ex6.ipynb)** - Fatiamento avançado de subconjuntos matriciais.
 
 ---
 
