@@ -1,13 +1,13 @@
 # 📊 Business Intelligence — SENAI FATESG
 
-![Status](https://img.shields.io/badge/status-em%20andamento-blue)
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 ![Curso](https://img.shields.io/badge/curso-Intelig%C3%AAncia%20Artificial-green)
 ![Período](https://img.shields.io/badge/per%C3%ADodo-2%C2%BA-orange)
 ![Instituição](https://img.shields.io/badge/SENAI-FATESG-red)
 ![Área](https://img.shields.io/badge/%C3%A1rea-Business%20Intelligence-blueviolet)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![NoSQL](https://img.shields.io/badge/Database-NoSQL-blue)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?logo=python&logoColor=white)
-![License](https://img.shields.io/badge/licen%C3%A7a-Acad%C3%AAmica-lightgrey)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 Repositório destinado ao armazenamento das atividades, projetos e materiais desenvolvidos na disciplina de **Business Intelligence** da **Faculdade SENAI FATESG**.
 
@@ -17,10 +17,10 @@ Repositório destinado ao armazenamento das atividades, projetos e materiais des
 
 Este repositório tem como finalidade:
 
-- Organizar e versionar as atividades acadêmicas da disciplina  
-- Documentar exercícios práticos e estudos de caso  
-- Armazenar dashboards, relatórios e análises de dados  
-- Servir como portfólio acadêmico de Business Intelligence  
+- Organizar e versionar as atividades acadêmicas da disciplina.
+- Documentar exercícios práticos e estudos de caso.
+- Armazenar análises de dados e pesquisas sobre novas tecnologias de banco de dados.
+- Servir como portfólio acadêmico de Business Intelligence e Inteligência Artificial.
 
 ---
 
@@ -28,13 +28,21 @@ Este repositório tem como finalidade:
 
 As atividades presentes neste repositório envolvem conceitos e práticas de:
 
-- Fundamentos de Business Intelligence  
-- ETL (Extract, Transform, Load)  
-- Modelagem de Dados  
-- Data Warehouse  
-- Análise Exploratória de Dados  
-- Dashboards e Visualização de Dados  
-- Ferramentas de BI  
+### 🔎 Bancos de Dados Não-Relacionais (NoSQL)
+* **Definição:** O NoSQL é caracterizado pela liberdade, não exigindo que todos os dados tenham o mesmo formato.
+* **Vantagens:** Destaca-se pela velocidade em grandes volumes de dados e facilidade de escalabilidade horizontal.
+* **Tipos de Estruturas:** Estudo sobre Documentos (MongoDB), Chave-Valor (Redis), Colunas Amplas (Cassandra) e Grafos (Neo4j).
+* **Casos Reais:** Análise do uso do Cassandra pela Netflix para garantir disponibilidade total e replicação de dados.
+
+### 🧮 Manipulação de Dados com NumPy
+Acesso direto aos exercícios práticos de manipulação matricial desenvolvidos:
+
+* **[Exercício 01: Fatiamento de Vetores](exercicio01.py)** - Alteração de elementos específicos para zero.
+* **[Exercício 02: Atributos de Matriz](exercicio02.py)** - Verificação de shape e acesso à segunda linha.
+* **[Exercício 03: Extração de Colunas](exercicio03.py)** - Isolamento da segunda coluna em matrizes 3x2.
+* **[Exercício 04: Acesso em Matrizes 4x5](exercicio04.py)** - Impressão da terceira linha da matriz.
+* **[Exercício 05: Recorte Multidimensional A](exercicio05.py)** - Seleção de intervalos específicos de linhas e colunas.
+* **[Exercício 06: Recorte Multidimensional B](exercicio06.py)** - Fatiamento avançado de subconjuntos matriciais.
 
 ---
 
@@ -42,10 +50,14 @@ As atividades presentes neste repositório envolvem conceitos e práticas de:
 
 Durante a disciplina são utilizadas ferramentas como:
 
-- Power BI  
-- Excel  
-- SQL  
-- Python (quando aplicável)  
-- Ferramentas de ETL  
+- **Python 3.11:** Linguagem base para os algoritmos de manipulação.
+- **NumPy:** Biblioteca essencial para computação numérica e fatiamento de arrays.
+- **NoSQL Databases:** Exploração de ferramentas como MongoDB, Cassandra e Redis.
+- **Docker:** Utilizado para containerização e orquestração de ambientes.
 
 ---
+
+## 👨‍💻 Autor
+
+**Felipe Mendonça** Inteligência Artificial / Business Intelligence  
+**FATESG / SENAI** 2026
